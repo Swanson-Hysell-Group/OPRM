@@ -1,0 +1,8 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+CS1	unknown	20.0	76.5		This study
+CS2	unknown	20.0	76.5		This study
+CS3	unknown	20.0	76.5		This study
+CS7	unknown	20.0	76.5		This study
+CS8	unknown	20.0	76.5		This study
+CS9	unknown	20.0	76.5		This study

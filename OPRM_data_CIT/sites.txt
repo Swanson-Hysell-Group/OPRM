@@ -1,3 +1,8 @@
 tab	sites
-analysts	citations	lat	location	lon	site
-	This study	20.0	unknown	76.5	CS1
+site	location	samples	specimens	dir_alpha95	dir_comp_name	dir_dec	dir_inc	dir_k	dir_n_samples	dir_n_specimens	dir_n_specimens_lines	dir_n_specimens_planes	dir_polarity	dir_r	dir_tilt_correction	lat	lon	analysts	criteria	software_packages	citations	method_codes	result_quality	vgp_dm	vgp_dp	vgp_lat	vgp_lon
+CS1	OPRM	CS1-1	CS1-1a		Fit 1	218.7	-0.9		1.0	1	1	0	r		-1	20.0	76.5		ACCEPT	pmagpy-4.2.24-1: demag_gui.v.3.0	This study	LP-DIR-T:DE-BFL:DA-DIR:LP-DC4	g	  180.0 	   90.0 	  -47.4 	    9.0 
+CS2	OPRM	CS2-1	CS2-1a		Fit 1	131.5	-15.7		1.0	1	1	0	r		-1	20.0	76.5		ACCEPT	pmagpy-4.2.24-1: demag_gui.v.3.0	This study	LP-DIR-T:DE-BFL:DA-DIR:LP-DC4	g	  185.2 	   95.2 	  -41.6 	  159.3 
+CS3	OPRM	CS3-1	CS3-1a		Fit 1	94.4	73.9		1.0	1	1	0	t		-1	20.0	76.5		ACCEPT	pmagpy-4.2.24-1: demag_gui.v.3.0	This study	LP-DIR-T:DE-BFL:DA-DIR:LP-DC4	g	  324.5 	  292.5 	   15.1 	  107.6 
+CS7	OPRM	CS7-1	CS7-1a		Fit 1	0.3	55.6		1.0	1	1	0	n		-1	20.0	76.5		ACCEPT	pmagpy-4.2.24-1: demag_gui.v.3.0	This study	LP-DIR-T:DE-BFL:DA-DIR:LP-DC4	g	  257.3 	  183.9 	   73.9 	   77.4 
+CS8	OPRM	CS8-1	CS8-1a		Fit 1	10.0	46.7		1.0	1	1	0	n		-1	20.0	76.5		ACCEPT	pmagpy-4.2.24-1: demag_gui.v.3.0	This study	LP-DIR-T:DE-BFL:DA-DIR:LP-DC4	g	  231.8 	  149.3 	   77.9 	  123.5 
+CS9	OPRM															20.0	76.5										

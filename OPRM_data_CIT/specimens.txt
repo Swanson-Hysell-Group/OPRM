@@ -1,3 +1,13 @@
 tab	specimens
-analysts	citations	method_codes	sample	specimen	volume	weight
-	This study	LP-NOMAG	CS1-1	CS1-1a		
+specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
+CS1-1a		CS1-1																	This study	LP-NOMAG				OPRM	CS1
+CS1-1a	CS1-1a_LP-DIR-T	CS1-1		Fit 1	218.7	-0.9	1	43	-1	17.7	7.5	843	573	K		OPRM 13-Aug 2021 10:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			OPRM	CS1
+CS2-1a		CS2-1																	This study	LP-NOMAG				OPRM	CS2
+CS2-1a	CS2-1a_LP-DIR-T	CS2-1		Fit 1	131.5	-15.7	1	42	-1	17.5	17.0	843	473	K		OPRM 13-Aug 2021 10:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			OPRM	CS2
+CS3-1a		CS3-1																	This study	LP-NOMAG				OPRM	CS3
+CS3-1a	CS3-1a_LP-DIR-T	CS3-1		Fit 1	94.4	73.9	1	40	-1	7.6	5.2	843	623	K		OPRM 13-Aug 2021 10:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			OPRM	CS3
+CS7-1a		CS7-1																	This study	LP-NOMAG				OPRM	CS7
+CS7-1a	CS7-1a_LP-DIR-T	CS7-1		Fit 1	0.3	55.6	1	37	-1	5.8	9.3	858	773	K		OPRM 21-Jul 2021 07:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			OPRM	CS7
+CS8-1a		CS8-1																	This study	LP-NOMAG				OPRM	CS8
+CS8-1a	CS8-1a_LP-DIR-T	CS8-1		Fit 1	10.0	46.7	1	26	-1	0.9	5.9	847	773	K		OPRM 8-Jul 2021 11:53	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			OPRM	CS8
+CS9-1a		CS9-1																	This study	LP-NOMAG				OPRM	CS9

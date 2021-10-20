@@ -1,3 +1,8 @@
 tab	sites
 site	location	lat	lon	analysts	citations
-CS1	unknown	20.0	76.5		This study
+CS1	OPRM	20.0	76.5		This study
+CS2	OPRM	20.0	76.5		This study
+CS3	OPRM	20.0	76.5		This study
+CS7	OPRM	20.0	76.5		This study
+CS8	OPRM	20.0	76.5		This study
+CS9	OPRM	20.0	76.5		This study
