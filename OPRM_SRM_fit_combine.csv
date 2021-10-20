@@ -9,3 +9,8 @@ CS2-1a,CS2-1a_LP-DIR-T,CS2-1,,OPRM_fit,131.5,-15.7,1,42,-1,17.5,17,843,473,K,,OP
 CS3-1a,CS3-1a_LP-DIR-T,CS3-1,,OPRM_fit,94.4,73.9,1,40,-1,7.6,5.2,843,623,K,,OPRM 13-Aug 2021 10:50,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS3
 CS7-1a,CS7-1a_LP-DIR-T,CS7-1,,OPRM_fit,0.3,55.6,1,37,-1,5.8,9.3,858,773,K,,OPRM 21-Jul 2021 07:07,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS7
 CS8-1a,CS8-1a_LP-DIR-T,CS8-1,,OPRM_fit,10,46.7,1,26,-1,0.9,5.9,847,773,K,,OPRM 8-Jul 2021 11:53,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS8
+CS1-1a,CS1-1a_LP-DIR-T,CS1-1,,OPRM_fit_average,217,-11.7,1,12,-1,13.2,7.7,843,673,K,,OPRM 13-Aug 2021 10:38,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS1
+CS2-1a,CS2-1a_LP-DIR-T,CS2-1,,OPRM_fit_average,131.7,-20.5,1,13,-1,19.9,18.9,843,573,K,,OPRM 13-Aug 2021 10:42,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS2
+CS3-1a,CS3-1a_LP-DIR-T,CS3-1,,OPRM_fit_average,95.2,73.7,1,14,-1,7.6,5,843,623,K,,OPRM 13-Aug 2021 10:50,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS3
+CS7-1a,CS7-1a_LP-DIR-T,CS7-1,,OPRM_fit_average,1.6,54.6,1,13,-1,7.9,9,858,773,K,,OPRM 21-Jul 2021 07:07,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS7
+CS8-1a,CS8-1a_LP-DIR-T,CS8-1,,OPRM_fit_average,9.8,46,1,7,-1,1.3,3.2,847,803,K,,OPRM 8-Jul 2021 11:53,pmagpy-4.2.24-1: demag_gui,u,This study,LP-DIR-T:DE-BFL:DA-DIR,g,,,OPRM,CS8

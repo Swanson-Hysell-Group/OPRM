@@ -1,0 +1,8 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+CS1-1	CS1	0.0					  -25.8	   64.2	    0.0	  154.2	   -0.0	This study	SO-CMD-NORTH
+CS2-1	CS2	0.0					  -25.8	   64.2	    0.0	  154.2	   -0.0	This study	SO-CMD-NORTH
+CS3-1	CS3	0.0					  -25.8	   64.2	    0.0	  154.2	   -0.0	This study	SO-CMD-NORTH
+CS7-1	CS7	0.0					  -25.8	   64.2	    0.0	  154.2	   -0.0	This study	SO-CMD-NORTH
+CS8-1	CS8	0.0					  -25.8	   64.2	    0.0	  154.2	   -0.0	This study	SO-CMD-NORTH
+CS9-1	CS9	0.0					  -25.8	   64.2	    0.0	  154.2	   -0.0	This study	SO-CMD-NORTH

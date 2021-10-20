@@ -1,0 +1,8 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+CS1-1a	CS1-1		This study	LP-NOMAG		
+CS2-1a	CS2-1		This study	LP-NOMAG		
+CS3-1a	CS3-1		This study	LP-NOMAG		
+CS7-1a	CS7-1		This study	LP-NOMAG		
+CS8-1a	CS8-1		This study	LP-NOMAG		
+CS9-1a	CS9-1		This study	LP-NOMAG		
